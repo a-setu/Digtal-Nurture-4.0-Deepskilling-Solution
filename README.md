@@ -1,2 +1,2 @@
 # Digtal-Nurture-4.0-Deepskilling-Solution
-This repository contains my week-wise solutions to Cognizant-Digital-Nurture-4.0-Java-FSE-Deepskilling
+This repository contains my week-wise solutions to mandatory hands-on to Cognizant-Digital-Nurture-4.0-Java-FSE-Deepskilling.
